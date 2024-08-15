@@ -7,4 +7,4 @@
 - Forneça informações claras sobre o ataque em um cronograma simples para triagem rápida
 - Monitore vários pontos de entrada por meio da integração com o Windows Defender Advanced Threat Protection
   
-![Uploading image.png…]()
+![Uploading image.png…](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/49185i9CDB31A28D2280F6)
