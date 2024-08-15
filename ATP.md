@@ -6,4 +6,5 @@
 - Proteja as identidades e credenciais dos usuários armazenadas no Active Directory
 - Forneça informações claras sobre o ataque em um cronograma simples para triagem rápida
 - Monitore vários pontos de entrada por meio da integração com o Windows Defender Advanced Threat Protection
+  
 ![Uploading image.png…]()
