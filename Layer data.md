@@ -7,7 +7,7 @@ tags:
 
 É a camada mais interna e crítica, onde são aplicadas as proteções diretamente sobre os dados armazenados e processados. Isso inclui criptografia de dados em repouso, políticas de governança de dados e backup seguro.
 
-![Uploading image.png…](https://uploaddeimagens.com.br/imagens/gJ2eD3g)
+![Uploading image.jpg…](https://uploaddeimagens.com.br/imagens/gJ2eD3g)
 
 ## Camada de dados -  Modelo OSI
 
