@@ -5,7 +5,8 @@ tags:
 ---
 # O modelo de camadas de segurança da Azure
 
-É a camada mais interna e crítica, onde são aplicadas as proteções diretamente sobre os dados armazenados e processados. Isso inclui criptografia de dados em repouso, políticas de governança de dados e backup seguro.![[Pasted image 20240816104036.jpg]]
+É a camada mais interna e crítica, onde são aplicadas as proteções diretamente sobre os dados armazenados e processados. Isso inclui criptografia de dados em repouso, políticas de governança de dados e backup seguro.
+![Uploading image.png…](https://drive.google.com/file/d/13L_1P8LPzcD29BDn-VsKlVlZ2F6mnGFe/view?usp=sharing)
 
 ## Camada de dados -  Modelo OSI
 
